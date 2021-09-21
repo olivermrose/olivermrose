@@ -1,11 +1,4 @@
 <div align="center">
-    <h3><samp>Cheese is just a loaf of bread</samp></h3>
-    <samp>20. <a href="https://www.mypronouns.org/he-him">He\Him</a>. Japanese. よく生きる.</samp>
-    <br>
-    <samp>Studying at <a href="https://www.ucla.edu/">UCLA</a> to become something.</samp>
-</div>
-<br>
-<div align="center">
     <samp>
         <a href="https://www.adacore.com/">Ada</a> •
         <a href="https://kotlinlang.org">Kotlin</a> •
