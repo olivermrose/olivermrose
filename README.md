@@ -1,19 +1,20 @@
 <div align="center">
-    <samp>
-        <a href="https://www.adacore.com/">Ada</a> •
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> •
-        <a href="https://kotlinlang.org/"><img src="svg/kotlin.svg" /></a> •
-        <a href="https://graphql.org/">GraphQL</a> •
-        <a href="https://nodejs.org/">Node.js</a> •
-        <a href="https://www.postgresql.org/">PostgreSQL</a> •
-        <a href="https://www.ruby-lang.org/en/">Ruby</a> •
-        <a href="https://www.typescriptlang.org/">TypeScript</a> •
-        <a href="https://vuejs.org/">Vue.js</a>
-    </samp>
-</div>
-<br>
-<div align="center">
-    <a href>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiBread&layout=compact&langs_count=6&bg_color=1F2937&text_color=BBBBBB&title_color=F87171&hide_border=true&hide_title=true" />
-    </a>
+	<em>Jack of all trades, master of none</em>
+	<br>
+	<br>
+	<a href="https://ruby-lang.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ruby.svg" height="28" /></a>&ensp;
+	<a href="https://scala-lang.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/scala.svg" height="28" /></a>&ensp;
+	<a href="https://rust-lang.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rust.svg" height="28" /></a>&ensp;
+	<a href="https://haskell.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/haskell.svg" height="28" /></a>&ensp;
+	<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" height="28" /></a>&ensp;
+	<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" height="28" /></a>&ensp;
+	<a href="https://v3.nuxtjs.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nuxt.svg" height="28" /></a>&ensp;
+	<a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg" height="28" /></a>&ensp;
+	<a href="https://learn.adacore.com/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ada.svg" height="28" /></a>&ensp;
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" height="28" /></a>&ensp;
+	<a href="https://typescriptlang.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" height="28" /></a>&ensp;
+	<a href="https://dart.dev"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/dart.svg" height="28" /></a>&ensp;
+	<a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/kotlin.svg" height="28" /></a>
+	<br>
+    <a href><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiBread&layout=compact&langs_count=6&bg_color=0d1117&text_color=BBBBBB&title_color=F87171&hide_border=true&hide_title=true" /></a>
 </div>
