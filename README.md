@@ -2,7 +2,7 @@
     <samp>
         <a href="https://www.adacore.com/">Ada</a> •
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> •
-        <a href="https://kotlinlang.org/">Kotlin</a> •
+        <a href="https://kotlinlang.org/"><img src="svg/kotlin.svg" /></a> •
         <a href="https://graphql.org/">GraphQL</a> •
         <a href="https://nodejs.org/">Node.js</a> •
         <a href="https://www.postgresql.org/">PostgreSQL</a> •
