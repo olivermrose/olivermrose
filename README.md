@@ -3,12 +3,9 @@
 	<br>
 	<br>
 	<a href="https://ruby-lang.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ruby.svg" height="28" /></a>&ensp;
-	<a href="https://scala-lang.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/scala.svg" height="28" /></a>&ensp;
 	<a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg" height="28" /></a>&ensp;
 	<a href="https://astro.build"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/astro.svg" height="28" /></a>&ensp;
 	<a href="https://rust-lang.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rust.svg" height="28" /></a>&ensp;
-	<a href="https://haskell.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/haskell.svg" height="28" /></a>&ensp;
-	<a href="https://julialang.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/julia.svg" height="28" /></a>&ensp;
 	<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" height="28" /></a>&ensp;
 	<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" height="28" /></a>&ensp;
 	<a href="https://nuxt.com"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nuxt.svg" height="28" /></a>&ensp;
